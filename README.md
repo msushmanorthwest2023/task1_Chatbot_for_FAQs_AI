@@ -1,4 +1,4 @@
-# task1_Chatbot_for_FAQs_AI
+# task2_Chatbot_for_FAQs_AI
 
 # FAQ Chatbot
 ## Overview
